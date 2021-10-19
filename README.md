@@ -3,10 +3,14 @@ Crack-rar is a python3 script which is created for bruteforcing or cracking of r
 
 <p align="center">Crack-rar is seen to crack RAR password protected files and zip files much easier and also reads the rar if it is bad</p>
 <br>
-![](img/crack-rar.png)
+
+<img src="img/crack-rar.png" width="320" height="200"/>
+
 
 <br>
+
 # Authors
+
 ```
 AnonyminHack5 and Credits to Suraj Singh
 ```
