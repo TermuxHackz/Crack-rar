@@ -75,7 +75,7 @@ To be able to encourage AnonyminHack5 and support this project, kindly donate vi
 ```
 
 # Usage
-<code> python3 crack-rar.py -h - MENU AND STARTUP PROGRAM </code>
+<code> python3 crack-rar.py -h </code> <b>MENU AND STARTUP PROGRAM </b>
 
 # Installation of Crack-rar
 Use the below commands to install Crack-rar into your terminal
